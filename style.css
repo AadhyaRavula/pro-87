@@ -1,0 +1,26 @@
+.body_backgorund 
+{
+    background-image:url(backg.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color:white; 
+    border-style:ridge;
+    border-color:lightseagreen;
+}
+
+h3
+{
+	width: 1000px;
+	background-color:lightpink;
+	display: inline-block;
+}
+
+h1
+{
+   font-size: 30;
+   background-color: white;
+}
